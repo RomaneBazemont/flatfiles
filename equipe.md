@@ -2,6 +2,5 @@
 layout: default
 ---
 
-<head>
-Notre equipe
-</head>
+
+<h1>Notre equipe</h1>
