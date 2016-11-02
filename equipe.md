@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <head>
-page équipe
+Notre equipe
 </head>
