@@ -1,5 +1,6 @@
 ---
 layout: default
+title: contact
 ---  
 
 <h1>Contactez nous ! </h1>
