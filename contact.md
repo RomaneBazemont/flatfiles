@@ -2,9 +2,8 @@
 layout: default
 ---  
 
-<head>
-  Contactez nous !
-</head>
+<h1>Contactez nous ! </h1>
+
 
 
 <main>
