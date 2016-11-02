@@ -1,0 +1,3 @@
+<head>
+page équipe
+</head>
