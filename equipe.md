@@ -1,6 +1,6 @@
 ---
 title : Mon equipe
-layout: default
+layout: page
 ---
 
 
