@@ -1,11 +1,7 @@
 ---
-layout: default
-title: contact
+layout: page
+title: Contactez nous !
 ---  
-
-<h1>Contactez nous ! </h1>
-
-
 
 <main>
   <p>Notre adresse : {{site.adresse}}</p>
